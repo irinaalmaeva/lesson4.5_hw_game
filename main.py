@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Ping Pong Game")
 
 # Цвета
-black = (11, 22, 33)
+black = (100, 22, 33)
 white = (255, 255, 255)
 
 # Частота обновления экрана
